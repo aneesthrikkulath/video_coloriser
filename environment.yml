@@ -1,9 +1,8 @@
-name: deoldify
+name: video_coloriser
 channels:
 - fastai
 - pytorch
 - defaults
-- peterjc123
 dependencies:
 - scipy
 - cuda90
